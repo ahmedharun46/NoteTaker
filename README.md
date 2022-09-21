@@ -14,4 +14,4 @@ Heroku for deplying the website
 
 Git Hub Link: https://github.com/ahmedharun46/NoteTakerPad
 
-Heroku Link: 
+Heroku Link: https://pure-brook-48728.herokuapp.com/
