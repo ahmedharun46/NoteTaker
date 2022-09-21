@@ -12,6 +12,6 @@ Making get, post and delte requests for my information.
 Linking different files to each other and using express to build the website.
 Heroku for deplying the website 
 
-Git Hub Link:
+Git Hub Link: https://github.com/ahmedharun46/NoteTakerPad
 
 Heroku Link: 
